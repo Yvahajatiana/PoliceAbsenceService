@@ -1,0 +1,11 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/tests/PoliceAbsenceService.Test/obj
+/.vs/PoliceAbsenceService
+/src/PoliceAbsenceService.API/obj
+/src/PoliceAbsenceService.Application/obj
+/src/PoliceAbsenceService.Domain/obj
+/src/PoliceAbsenceService.Infrastructure/obj
+/src/PoliceAbsenceService.Shared/obj
